@@ -83,24 +83,7 @@ Moderate Precision (66.14%): The model has a relatively high false positive rate
 
 High AUC-ROC (1.0000): The model has perfect discriminatory power.
 
-How to Run the Project
-Clone the Repository:
 
-bash
-Copy
-git clone https://github.com/afridsk0069/fraud-detection.git
-cd fraud-detection
-Install Dependencies:
-
-bash
-Copy
-pip install -r requirements.txt
-Run the Flask App:
-
-bash
-Copy
-python app.py
-Access the Web Interface:
 
 Open your browser and go to http://127.0.0.1:5000/.
 
